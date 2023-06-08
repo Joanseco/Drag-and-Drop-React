@@ -1,4 +1,4 @@
-import './App.css';
+//voy a instalar y importar 3 modulos, el boostrap, react-boostrap y los @dnd-kit
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Container from 'react-bootstrap/Container';
 import {
